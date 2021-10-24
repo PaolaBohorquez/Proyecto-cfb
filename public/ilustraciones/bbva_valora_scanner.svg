@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Contenido" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#1464A5;}
+	.st2{fill:#49A5E6;}
+	.st3{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);enable-background:new    ;}
+	.st4{fill:#004481;}
+	.st5{fill:#043263;}
+	.st6{fill:url(#SVGID_3_);}
+	.st7{fill:#2DCCCD;}
+	.st8{fill:#EAF9FA;}
+</style>
+<title>BBVAValora</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="265.0407" y1="466.1182" x2="439.6793" y2="33.8818" gradientTransform="matrix(1 0 0 -1 0 602)">
+	<stop  offset="0" style="stop-color:#192647"/>
+	<stop  offset="0" style="stop-color:#192647;stop-opacity:0.5"/>
+	<stop  offset="1" style="stop-color:#192647;stop-opacity:0"/>
+</linearGradient>
+<path class="st0" d="M256.9,141h191c12.7,0,23,10.3,23,23v376c0,12.7-10.3,23-23,23h-191c-12.7,0-23-10.3-23-23V164
+	C233.9,151.3,244.2,141,256.9,141z"/>
+<path class="st1" d="M204.9,89h191c12.7,0,23,10.3,23,23v376c0,12.7-10.3,23-23,23h-191c-12.7,0-23-10.3-23-23V112
+	C181.9,99.3,192.2,89,204.9,89z"/>
+<rect x="181.9" y="141.8" class="st2" width="237" height="316.5"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="194.38" y1="391.28" x2="321.88" y2="263.78" gradientTransform="matrix(1 0 0 -1 0 602)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+	<stop  offset="1" style="stop-color:#EDF8F9;stop-opacity:0.2"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<polygon class="st3" points="182.2,141.9 182.2,458 213.9,458 385.1,141.9 "/>
+<path class="st4" d="M299.4,241.6l-63,39.9c-4.1,2.6-5.3,7.9-2.7,12c0,0,0,0,0,0l1.6,2.5l65.1-41.3l65,41.3l1.6-2.5
+	c2.6-4.1,1.4-9.4-2.7-12c0,0,0,0,0,0l-63-39.9C300.7,241.2,300,241.3,299.4,241.6z"/>
+<polygon class="st1" points="249.8,286.9 300.4,254.7 350.9,286.8 350.9,358.7 249.8,358.7 "/>
+<polygon class="st5" points="249.8,298.2 235.3,296 249.8,286.9 "/>
+<polygon class="st5" points="350.9,298.1 365.4,296 350.9,286.8 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="350.94" y1="290.085" x2="265.08" y2="290.085" gradientTransform="matrix(1 0 0 -1 0 602)">
+	<stop  offset="0" style="stop-color:#043263;stop-opacity:0.8"/>
+	<stop  offset="1" style="stop-color:#043263;stop-opacity:0"/>
+</linearGradient>
+<polygon class="st6" points="316.8,265.1 350.9,286.8 350.9,358.7 265.1,358.7 "/>
+<path class="st7" d="M313.2,358.7h-25.7v-44.6c0-2.1,1.7-3.8,3.8-3.8h18.1c2.1,0,3.8,1.7,3.8,3.8L313.2,358.7z"/>
+<g>
+	<path class="st8" d="M241.9,395.6h-17.1c-5,0-9-4-9-9v-17.1h8v17.1c0,0.6,0.4,1,1,1h17.1V395.6z"/>
+</g>
+<g>
+	<path class="st8" d="M385,239.8h-8v-17.1c0-0.6-0.4-1-1-1h-17.1v-8H376c5,0,9,4,9,9V239.8z"/>
+</g>
+<g>
+	<path class="st8" d="M376,395.6h-17.1v-8H376c0.6,0,1-0.4,1-1v-17.1h8v17.1C385,391.5,381,395.6,376,395.6z"/>
+</g>
+<g>
+	<path class="st8" d="M223.8,239.8h-8v-17.1c0-5,4-9,9-9h17.1v8h-17.1c-0.6,0-1,0.4-1,1V239.8z"/>
+</g>
+</svg>
